@@ -1,0 +1,30 @@
+
+PRIVACY POLICY
+
+Last modified: 21-05-2023
+
+Our users are very important to us. 
+We therefore inform you about what information we collect, why we need it, and what we do with it.
+
+QuranApp does NOT:
+- 	Store any personal or sensitive information
+- 	Share any personal or sensitive information with anyone or any company
+- 	Track you
+- 	Know who you are (we doe not collect or store you name, (ip) addres or other personal information)
+- 	Show any advertisement
+- 	Share any details with advertisement companies
+- 	Sell or buy anything remotely related to an advert
+
+
+This app does: 
+- 	Require location information in order to provide our users accurate Prayer times. 
+	  This location information can be turned off on the settings page and users can choose to select the country and city manually.
+- 	Require notification permissions in order to send notifications about prayer times. Notifications can be turned off on the settings page.
+- 	Require network permissions (wifi and/or mobile data) in order to retrieve Prayer times.
+
+
+Information about permissions:
+- 	Location permissions can be turned off via the settings of your device and/or via the settings in the app itself.
+	  Navigate to the settings, then click Apps and select the application. You can now allow/disallow any location permission. 
+- 	Notification permissions can be turned off via the settings of your device and/or via the settings in the app itself. 
+	  Navigate to the settings, then click Apps and select the application. You can now allow/disallow the notifications permission.
